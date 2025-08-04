@@ -1,0 +1,12 @@
+/* Reset or start fresh */
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+a {
+  text-decoration: none;
+  color: #333;
+}
+a:hover {
+  color: #0d47a1;
+}
